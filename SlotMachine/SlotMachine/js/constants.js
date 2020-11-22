@@ -1,5 +1,5 @@
 /**
- * Declare all the constants that will be used in the project
+ * Declaring all the constants that will be used in the project
  * under the namespace SLOTMACHINE
  */
 (function(global){

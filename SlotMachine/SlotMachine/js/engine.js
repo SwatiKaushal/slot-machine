@@ -81,12 +81,12 @@ var Engine = (function(global){
 	var _setListeners = function(){
 		SLOTMACHINE.input_balance.addEventListener('focusout', function(element){
 			if(isNaN(parseInt(this.value))){
-				alert('Excuse me sir! Your balance must be a number. Aren\'t you trying to fool us, are you?');
+				alert('Excuse me sir! Your balance must be a number.');
 				this.value = game.balance;
 				return;
 			}
 			if(this.value < 0){
-				alert('Sir, if you are owning money to someone, why did you came to a slot machine? Sorry to inform, no money no game!');
+				alert('Sir, Sorry to inform, no money no game!');
 				this.value = game.balance;
 				return;
 			}

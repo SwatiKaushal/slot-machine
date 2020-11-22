@@ -35,6 +35,6 @@ The pattern used for javascript classes is called Pseudo Classical Prototypal pa
 
 ## Code Description
 
-For this project I decided to keep every class in a diferent file, because it is better to read, better to debug and better to extend it. And yes, I know that each file would be a http request, but this code is not a production code, if it would go to production I would've used gulp to rewrite all the files into a "all.min.js" and minify it. (The same with the images. Make a Atlases and use cordinates to load them)
+For this project I decided to keep every class in a diferent file, because it is better to read, better to debug and better to extend it. 
 
-I would highly recommend start to read the code from the file [constants.js](js/constants.js) where I kept the project's constants, then go to [resources.js](js/resources.js) where you can find my helper methods (basically the image load, and random generator), then you can follow as pleases you from [engine.js](js/engine.js) and following the method calls into [slotmachine.js](js/slotmachine.js) and [reel.js](js/reel.js). 
+I would recommend start to read the code from the file [constants.js](js/constants.js) where I kept the project's constants, then go to [resources.js](js/resources.js) where you can find my helper methods (basically the image load, and random generator), then you can follow as pleases you from [engine.js](js/engine.js) and following the method calls into [slotmachine.js](js/slotmachine.js) and [reel.js](js/reel.js). 
