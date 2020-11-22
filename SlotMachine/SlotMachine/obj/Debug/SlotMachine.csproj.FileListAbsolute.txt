@@ -1,0 +1,6 @@
+C:\Users\rahul\Desktop\GitRepos\slot-machine\SlotMachine\SlotMachine\bin\SlotMachine.dll.config
+C:\Users\rahul\Desktop\GitRepos\slot-machine\SlotMachine\SlotMachine\bin\SlotMachine.dll
+C:\Users\rahul\Desktop\GitRepos\slot-machine\SlotMachine\SlotMachine\bin\SlotMachine.pdb
+C:\Users\rahul\Desktop\GitRepos\slot-machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\rahul\Desktop\GitRepos\slot-machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.dll
+C:\Users\rahul\Desktop\GitRepos\slot-machine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
